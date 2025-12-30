@@ -7,7 +7,7 @@
 - Governance framework applied; workflow snapshot recorded at `ai_workflow_revisions/rev_001_current`.
 - README generator/validator/diff implemented in `src/` with YAML rules under `spec/`.
 - Project README generated from `README_SPEC.yaml` and validated successfully.
-- GitHub repo created at `https://github.com/holaymolay/readme-spec-engine` with the initial commit on main.
+- GitHub repo created at `https://github.com/holaymolay/cef-readme-spec-engine` with the initial commit on main.
 - Ledger entry: 2025-12-24T13:21:00-08:00 (Spec ID: 3d59c02d-db7b-46fa-b2fe-da42d5d1a7c5).
 
 ## Recent Progress

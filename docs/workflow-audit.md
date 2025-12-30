@@ -56,7 +56,7 @@ Follow-up (if any):
 - (Add newest entries at the top.)
 
 Date: 2025-12-24
-Proposal: Adopt the ai-agents-workflow governance scaffold for readme-spec-engine and capture a baseline snapshot.
+Proposal: Adopt the ai-agents-workflow governance scaffold for cef-readme-spec-engine and capture a baseline snapshot.
 Hypothesis (speed/accuracy impact): Standardized governance reduces ambiguity and improves first-pass accuracy for future tasks.
 Baseline (current speed + accuracy): New repo, no baseline metrics yet.
 Expected improvement: Faster task routing with clear audit trails and fewer clarification loops.

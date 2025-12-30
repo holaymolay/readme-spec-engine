@@ -1,13 +1,13 @@
 # Human Start Here
 
-This repository is the Context-Engineering Framework for Coding Agents.
+This repository is the Context Engineering Framework for Coding Agents.
 It is AI-operated: humans provide goals and decisions; the agent runs scripts and updates AI-managed files.
 
 ## Quick Start (Copy/Paste Prompt)
 Paste this into any agentic frontend (Codex, Gemini, Claude/Anthropic, Grok, etc.) and add your task:
 
 ```text
-You are to incorporate this Context-Engineering Framework for Coding Agents, located at https://github.com/holaymolay/context-engineering-framework, as the governance framework for this project.
+You are to incorporate this Context Engineering Framework for Coding Agents, located at https://github.com/holaymolay/cef-governance-orchestrator, as the governance framework for this project.
 
 For new projects, implement this framework from the start. Once the framework is in place I will describe the project and its requirements.
 For existing projects, implement this framework and bring the existing codebase into compliance with the framework.

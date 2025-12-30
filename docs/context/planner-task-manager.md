@@ -1,6 +1,6 @@
 # Planner / Task Manager Ledger
 
-## 2025-12-24T13:21:00-08:00 — Initialize readme-spec-engine repo
+## 2025-12-24T13:21:00-08:00 — Initialize cef-readme-spec-engine repo
 - Summary: Bootstrap governance, implement spec-driven README tooling, and deliver repo structure.
 - Details:
   - Apply context-engineering governance framework.
