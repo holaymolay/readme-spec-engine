@@ -74,3 +74,6 @@ Hard constraints:
 - Tone profile: neutral
 ## Hub schemas
 - Objective Contract, Gap Ledger, Task Plan, Completed entry, and Prompt Debug Report schemas live in the CERES hub `schemas/`. Consume them when generating/validating specs/README artifacts.
+
+## Hub schema sync
+- Use hub `scripts/sync-schemas.sh <target-repo>` to copy Objective Contract, Gap Ledger, Task Plan, Completed entry, Prompt Debug Report schemas into this repo when needed.
