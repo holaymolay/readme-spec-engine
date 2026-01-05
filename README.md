@@ -72,3 +72,5 @@ Hard constraints:
 - Max length: 5200 chars
 - Banned terms: magic, automagic
 - Tone profile: neutral
+## Hub schemas
+- Objective Contract, Gap Ledger, Task Plan, Completed entry, and Prompt Debug Report schemas live in the CERES hub `schemas/`. Consume them when generating/validating specs/README artifacts.
