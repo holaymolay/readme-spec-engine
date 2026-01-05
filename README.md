@@ -1,5 +1,5 @@
-# CEF README Spec Engine
-Part of the Context Engineering Framework (CEF). Umbrella repo: [context-engineering-framework](https://github.com/holaymolay/cef-governance-orchestrator).
+# CERES README Spec Engine
+Part of the CERES (Coordinated Emergent Reasoning System). Umbrella repo: [CERES](https://github.com/holaymolay/ceres-coordinated-emergent-reasoning-system).
 
 
 ## Why This Exists
@@ -22,7 +22,7 @@ README quality is often treated as subjective, making governance inconsistent an
 
 ## Solution
 
-cef-readme-spec-engine converts explicit specs plus repo metadata into a deterministic README artifact and validates it against declared structure, audience, and constraints; enforcement and policy decisions live elsewhere. Workflow baseline snapshot: ai_workflow_revisions/rev_001_current (local).
+readme-spec-engine converts explicit specs plus repo metadata into a deterministic README artifact and validates it against declared structure, audience, and constraints; enforcement and policy decisions live elsewhere. Workflow baseline snapshot: ai_workflow_revisions/rev_001_current (local).
 
 ## Outcomes
 
