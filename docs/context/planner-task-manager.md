@@ -13,3 +13,5 @@
 - Related Spec / Skill: 3d59c02d-db7b-46fa-b2fe-da42d5d1a7c5 (no-skill)
 - Pending Actions: None.
 - Status: closed
+
+- Use CERES todo template: initialize via umbrella `scripts/init-todo-files.sh` (todo-inbox.md, todo.md, completed.md, handover.md); governance gate may enforce `--require-ceres-todo`.
